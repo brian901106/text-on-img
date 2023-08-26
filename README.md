@@ -5,4 +5,6 @@
 python下載:https://www.python.org/downloads/release/python-3107/  
 
 ## 使用方式
-點兩下run.bat即可  
+1.先把名字分行輸入到input.txt  
+2.點兩下run.bat  
+3.完成
